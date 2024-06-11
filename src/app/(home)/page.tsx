@@ -1,9 +1,14 @@
-import Banner from "@/app/(home)/components/Banner";
+import Banner from "./components/Banner";
+import BookList from "./components/BookList";
 
-export default function Home() {
+export default async function Home() {
+  
+  
+
   return (
     <>
       <Banner />
+      <BookList />
     </>
   );
 }
