@@ -15,7 +15,7 @@ const Navbar = () => {
                   height={80}
                   alt="book-logo-image"
                 />
-                <span className="text-xl uppercase font-bold tracking-tight text-indigo-500">
+                <span className="text-4xl uppercase font-bold tracking-tight text-indigo-500">
                   Digigyan
                 </span>
               </div>

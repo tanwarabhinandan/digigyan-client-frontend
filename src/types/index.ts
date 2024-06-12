@@ -8,5 +8,6 @@ export type Book = {
 };
 
 export type Author = {
+  _id: string;
   name: string;
 };
